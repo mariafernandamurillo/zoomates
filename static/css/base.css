@@ -1,0 +1,15 @@
+body{
+    color: #333333;
+}
+h1{
+    color: #7CA982;
+}
+
+.navbar-my-style{
+    background-color: #3AB2A8 !important;
+    color: antiquewhite;
+}
+
+.container{
+    margin-top: 70px;
+}
